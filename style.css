@@ -25,11 +25,10 @@ h2
 }
 h1
 {
-color:rgb(11, 92, 95);
+color:black;
 }
 .box 
 {
     background-color: rgba(0, 0, 0, 0.671);
-    border-radius: 5%;
     border:dashed;
 }
